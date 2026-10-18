@@ -1,0 +1,4 @@
+# Modelos nao vao para o git (148 MB > limite de 100 MB do GitHub).
+# Eles sao distribuidos como Release Assets.
+ggml-*.bin
+*.part
